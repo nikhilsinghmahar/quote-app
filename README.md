@@ -36,7 +36,6 @@ Add animations and styling enhancements.
 Implement social sharing options.
 
 Author
-
 This project was created as a simple demonstration of web development using HTML, CSS, and JavaScript.
 
 
