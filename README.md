@@ -13,21 +13,21 @@ User can generate a new quote by clicking a button.
 Simple and clean UI with responsive design.
 
 
-Technologies Used
+Technologies Used:
 
 HTML: Structure of the web page.
 CSS: Styling and layout.
 JavaScript: Logic to display random quotes.
 
 
-How to Use
+How to Use:
 
 Open the index.html file in a web browser.
 Click the "New Quote" button to generate a random quote.
 Enjoy different inspirational quotes!
 
 
-Files
+Files:
 
 index.html - The main HTML structure.
 styles.css - The CSS file for styling (if applicable).
