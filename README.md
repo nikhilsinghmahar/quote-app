@@ -1,6 +1,6 @@
 # quote-app
-Description:
-1.The Quote Generator App is a simple web application that displays a random
+#Description:
+#The Quote Generator App is a simple web application that displays a random
 inspirational quote each time the user clicks the "New Quote" button. 
 The app is built using HTML, CSS, and JavaScript.
 
