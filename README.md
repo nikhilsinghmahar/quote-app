@@ -7,7 +7,9 @@ The app is built using HTML, CSS, and JavaScript.
 
 Features:
 #.Displays a random quote from a predefined list.
+
 #.User can generate a new quote by clicking a button.
+
 #.Simple and clean UI with responsive design.
 
 
